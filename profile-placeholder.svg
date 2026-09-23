@@ -1,0 +1,19 @@
+<svg width="800" height="980" viewBox="0 0 800 980" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="400" y1="0" x2="400" y2="980" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#F4EFE6"/>
+      <stop offset="1" stop-color="#E0D5C4"/>
+    </linearGradient>
+    <linearGradient id="shirt" x1="400" y1="550" x2="400" y2="980" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#D73D33"/>
+      <stop offset="1" stop-color="#B52C23"/>
+    </linearGradient>
+  </defs>
+  <rect width="800" height="980" rx="40" fill="url(#bg)"/>
+  <circle cx="400" cy="320" r="150" fill="#C7B79F"/>
+  <path d="M232 822C250 666 321 570 400 570C479 570 550 666 568 822V980H232V822Z" fill="url(#shirt)"/>
+  <path d="M300 585C329 624 361 642 400 642C439 642 471 624 500 585" stroke="#F7F4EE" stroke-width="16" stroke-linecap="round"/>
+  <path d="M333 300C333 248 365 202 411 202C455 202 486 250 486 302V370C486 425 447 470 400 470C352 470 313 426 313 370V300H333Z" fill="#EADCC6"/>
+  <path d="M291 314C291 219 351 158 423 158C499 158 550 220 550 302V344C539 325 525 311 500 300C460 282 401 286 358 263C334 250 319 233 311 216C298 242 291 274 291 314Z" fill="#3E342A"/>
+  <text x="400" y="905" text-anchor="middle" fill="#FDE7E4" font-family="Arial, sans-serif" font-size="36" font-weight="700">Upload your photo here</text>
+</svg>
